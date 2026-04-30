@@ -16,7 +16,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Walter Medina"
+        android:text="@string/daniel_arias"
         android:paddingTop="16dp"
         android:textColor="@color/white"/>
 
